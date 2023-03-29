@@ -11,7 +11,7 @@
 ### :dart: Features
 
 * Admin
-  * Adding Roomd
+  * Adding Rooms
   * Updating Rooms
   * Deleting Rooms
   * Manage Customers
@@ -61,5 +61,5 @@
 
 
 ```bash
- git clone https://github.com/ShreyaRamtirth/EcommerceJwellery.git 
+ git clone https://github.com/Ashutosh-Pawar/HotelBooking.git 
 ```
